@@ -2,6 +2,7 @@
 *~
 __pycache__
 myvenv
+myenv
 mysite
 db.sqlite3
 /static
